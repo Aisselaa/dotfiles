@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = bacigalupoalessia@gmail.com
+	name = alessia bacigalupo
